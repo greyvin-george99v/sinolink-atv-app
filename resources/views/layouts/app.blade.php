@@ -63,7 +63,7 @@
     <div class="nav__inner">
         <div class="mobile-logo">
             <a href="{{ url('/') }}">
-                <img src="{{ asset('images/Sinolink Dark logo.png') }}" alt="Sinolink Logo">
+                <img src="{{ asset('images/sinolink-dark-logo.png') }}" alt="Sinolink Logo">
             </a>
         </div>
 
