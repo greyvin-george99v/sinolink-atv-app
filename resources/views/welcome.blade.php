@@ -15,7 +15,7 @@
         
         <div class="hero__inner">
             <div class="hero-text">
-                <h1>RELIABLE VEHICLE SOURCING <br> FROM CHINA TO AFRICA</h1>
+                <h1>Reliable Vehicle Sourcing <br> From China to Africa</h1>
                 <p>We simplify the entire process of getting ATVs, motorbikes, and utility vehicles delivered to your doorstep.</p>
             </div>
             <a href="{{ url('/contact') }}" class="hero-btn">REQUEST A QUOTE</a>
@@ -26,7 +26,7 @@
         <div class="slide-bg" style="background-image: linear-gradient(224deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.8) 100%), url('{{ asset('images/mdel.jpg') }}');"></div>
         <div class="hero__inner">
             <div class="hero-text">
-                <h1>PAN-AFRICAN LOGISTICS <br> & SMART DELIVERY</h1>
+                <h1>Pan-African Logistics <br> & Smart Delivery</h1>
                 <p>Operating through regional offices and trusted partners to deliver vehicles efficiently across multiple African cities.</p>
             </div>
             <a href="{{ url('/services') }}" class="hero-btn">OUR SERVICES</a>
@@ -37,7 +37,7 @@
         <div class="slide-bg" style="background-image: linear-gradient(224deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.8) 100%), url('{{ asset('images/truck-1.jpg') }}');"></div>
         <div class="hero__inner">
             <div class="hero-text">
-                <h1>QUALITY ASSURANCE <br> AT EVERY STEP</h1>
+                <h1>Quality Assurance <br> At Every Step</h1>
                 <p>From factory inspection to customs clearance, we ensure your vehicles arrive safely with full documentation.</p>
             </div>
             <a href="{{ url('/about') }}" class="hero-btn">LEARN MORE</a>
