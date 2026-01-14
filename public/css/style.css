@@ -804,13 +804,38 @@ body {
 .services-header {
     text-align: center;
     margin-bottom: 58px;
-    max-width: 600px;
+    max-width: 100%;
+}
+
+.figma-title {
+    text-align: center;
+    margin: 10px auto; /* Centers the block itself if it has a max-width */
+}
+
+.figma-subtitle {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 700px; /* Limits width to keep the text readable while centered */
+}
+
+.badge-yellow {
+    display: inline-block; /* Required for text-align: center to work on this span */
+    margin: 0 auto 15px auto;
 }
 
 .services-header .services-subtitle {
     color: #ffffff !important;
 }
 
+.services-breadcrumb-hero .figma-title,
+.hero-text h1 {
+    color: #ffffff !important; /* White text for dark backgrounds */
+}
+
+/* LIGHT SECTION (Services Grid) */
+.services-page-grid .figma-title {
+    color: #000000 !important; /* Black text for white backgrounds */
+}
 .services-header h2 {
     color: #ffffff !important; 
     font-family: 'Helvetica Black', sans-serif;

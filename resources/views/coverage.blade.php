@@ -26,7 +26,7 @@
             </p>
         </div>
 
-        <div class="map-visual-container">
+        <div class="map-visual-container reveal">
             <div class="ripple-background">
                 <div class="circle outer-circle"></div>
                 <div class="circle middle-circle"></div>

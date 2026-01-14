@@ -50,7 +50,7 @@
 </section>
 
     <!-- ABOUT US -->
-<section class="about">
+<section class="about reveal">
     <div class="about__inner">
   
       <!-- Text Content -->
@@ -96,7 +96,7 @@
 
         <div class="services-grid">
             
-            <div class="service-card">
+            <div class="service-card reveal">
                 <div class="service-card__icon-box">
                     <i class="fa-solid fa-car-side service-icon"></i>
                 </div>
@@ -331,7 +331,7 @@
 
     </div>
 </section>
-<section class="cta-section reveal">
+<section class="cta-section">
     
     <div class="cta__inner">
         

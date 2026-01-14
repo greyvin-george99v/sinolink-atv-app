@@ -123,10 +123,10 @@
     </div>
 </section>
 
-<section class="contact-cta-section reveal">
+<section class="contact-cta-section">
     <div class="cta__inner">
         
-        <div class="cta-content">
+        <div class="cta-content reveal">
             <h2 class="cta-heading">Ready to Source Your<br/>Next Vehicle or ATV?</h2>
             <p class="cta-description">
                 Get started today with a free quote. Our team is ready to help<br/>
@@ -134,9 +134,7 @@
             </p>
         </div>
 
-        <div class="cta-buttons">
-            
-
+        <div class="cta-buttons reveal">
             <a href="{{ url('/services') }}" class="btn-outline">
             View Services
             </a>

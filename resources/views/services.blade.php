@@ -145,7 +145,7 @@
             <div class="value-card">
                 <div class="value-top">
                     <div class="value-icon-box">
-                        <i class="fa-solid fa-shield-check"></i>
+                        <i class="fa-solid fa-shield-halved"></i>
                     </div>
                     <h3>Reliability</h3>
                 </div>
